@@ -1,0 +1,13 @@
+E:\UnityProject\Miss\DesignPattern\StateMode\bin\Debug\netcoreapp3.1\StateMode.exe
+E:\UnityProject\Miss\DesignPattern\StateMode\bin\Debug\netcoreapp3.1\StateMode.deps.json
+E:\UnityProject\Miss\DesignPattern\StateMode\bin\Debug\netcoreapp3.1\StateMode.runtimeconfig.json
+E:\UnityProject\Miss\DesignPattern\StateMode\bin\Debug\netcoreapp3.1\StateMode.runtimeconfig.dev.json
+E:\UnityProject\Miss\DesignPattern\StateMode\bin\Debug\netcoreapp3.1\StateMode.dll
+E:\UnityProject\Miss\DesignPattern\StateMode\bin\Debug\netcoreapp3.1\StateMode.pdb
+E:\UnityProject\Miss\DesignPattern\StateMode\obj\Debug\netcoreapp3.1\StateMode.csproj.AssemblyReference.cache
+E:\UnityProject\Miss\DesignPattern\StateMode\obj\Debug\netcoreapp3.1\StateMode.AssemblyInfoInputs.cache
+E:\UnityProject\Miss\DesignPattern\StateMode\obj\Debug\netcoreapp3.1\StateMode.AssemblyInfo.cs
+E:\UnityProject\Miss\DesignPattern\StateMode\obj\Debug\netcoreapp3.1\StateMode.csproj.CoreCompileInputs.cache
+E:\UnityProject\Miss\DesignPattern\StateMode\obj\Debug\netcoreapp3.1\StateMode.dll
+E:\UnityProject\Miss\DesignPattern\StateMode\obj\Debug\netcoreapp3.1\StateMode.pdb
+E:\UnityProject\Miss\DesignPattern\StateMode\obj\Debug\netcoreapp3.1\StateMode.genruntimeconfig.cache
